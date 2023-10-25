@@ -1,0 +1,1 @@
+I was able to succesfully create a main webpage with 3 different pages branching off of it. Each page included a picture and detailed the ingredients and steps to make each recipe. One page even had a link to an external webpage for the recipe.
